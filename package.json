@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "mongodb": "^4.6.0"
+  },
+  "name": "mongodbcrud",
+  "version": "1.0.0",
+  "main": "crud.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
